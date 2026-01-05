@@ -36,39 +36,38 @@ CARB introduces a learning-based “brain” that continuously:
 
 ## ⚙️ Simple System Architecture
 
+```
 +---------------------------+
-| Operational Data |
-| (Workload, Cooling, |
-| Battery, Carbon Int.) |
+|   Operational Data        |
+|  (Workload, Cooling,      |
+|   Battery, Carbon Int.)   |
 +-------------+-------------+
-|
-v
+              |
+              v
 +---------------------------+
-| Prediction Module |
-| (Demand & Carbon Forecast|
+|   Prediction Module       |
+|  (Demand & Carbon Forecast)|
 +-------------+-------------+
-|
-v
+              |
+              v
 +---------------------------+
-| CARB AI Brain (DQN) |
-| MindSpore RL Agent |
+|   CARB AI Brain (DQN)     |
+|   MindSpore RL Agent     |
 +-------------+-------------+
-|
-v
+              |
+              v
 +---------------------------+
-| Control Actions |
-| (Scheduling, Cooling, |
-| Battery Usage) |
+|   Control Actions         |
+|  (Scheduling, Cooling,    |
+|   Battery Usage)          |
 +-------------+-------------+
-|
-v
+              |
+              v
 +---------------------------+
-| Feedback & Learning |
-| (Reward: Carbon ↓ + SLA) |
+|   Feedback & Learning     |
+| (Reward: Carbon ↓ + SLA)  |
 +---------------------------+
-
-yaml
-Copy code
+```
 
 ---
 
