@@ -1,0 +1,1001 @@
+[
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": null,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 5359.03,
+        "sla": 0,
+        "actions": {
+          "run": 40,
+          "delay": 3,
+          "batt": 6
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 5200.0,
+        "sla": 0,
+        "actions": {
+          "run": 45,
+          "delay": 3,
+          "batt": 1
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 5050.0,
+        "sla": 0,
+        "actions": {
+          "run": 47,
+          "delay": 2,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4900.0,
+        "sla": 0,
+        "actions": {
+          "run": 30,
+          "delay": 19,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4750.0,
+        "sla": 0,
+        "actions": {
+          "run": 28,
+          "delay": 21,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4448.99,
+        "sla": 0,
+        "actions": {
+          "run": 25,
+          "delay": 24,
+          "batt": 0
+        }
+      }
+    ],
+    "best_run_carbon": 4448.99,
+    "promotion": {
+      "type": "new_global",
+      "global_best": 4448.99
+    },
+    "served_carbon": 4448.99,
+    "served_sla": 0,
+    "reduction_pct": 17.0,
+    "notes": [],
+    "timestamp": "2026-01-05T23:09:39",
+    "run_index": 1
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 4448.15,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 4919.82,
+        "sla": 0,
+        "actions": {
+          "run": 24,
+          "delay": 20,
+          "batt": 5
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4787.38,
+        "sla": 0,
+        "actions": {
+          "run": 24,
+          "delay": 23,
+          "batt": 2
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4393.22,
+        "sla": 0,
+        "actions": {
+          "run": 14,
+          "delay": 26,
+          "batt": 9
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4117.72,
+        "sla": 0,
+        "actions": {
+          "run": 31,
+          "delay": 16,
+          "batt": 2
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4237.74,
+        "sla": 0,
+        "actions": {
+          "run": 33,
+          "delay": 16,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4211.52,
+        "sla": 0,
+        "actions": {
+          "run": 38,
+          "delay": 11,
+          "batt": 0
+        }
+      }
+    ],
+    "best_run_carbon": 4117.72,
+    "promotion": {
+      "type": "new_global",
+      "global_best": 4117.72
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 23.16,
+    "notes": [],
+    "timestamp": "2026-01-05T23:21:19",
+    "run_index": 2
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 4117.72,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 3996.11,
+        "sla": 0,
+        "actions": {
+          "run": 15,
+          "delay": 17,
+          "batt": 17
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4265.72,
+        "sla": 0,
+        "actions": {
+          "run": 30,
+          "delay": 14,
+          "batt": 5
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4098.35,
+        "sla": 0,
+        "actions": {
+          "run": 35,
+          "delay": 11,
+          "batt": 3
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4124.57,
+        "sla": 0,
+        "actions": {
+          "run": 26,
+          "delay": 16,
+          "batt": 7
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4513.98,
+        "sla": 0,
+        "actions": {
+          "run": 27,
+          "delay": 22,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4544.89,
+        "sla": 0,
+        "actions": {
+          "run": 22,
+          "delay": 27,
+          "batt": 0
+        }
+      }
+    ],
+    "best_run_carbon": 3996.11,
+    "promotion": {
+      "type": "new_global",
+      "global_best": 3996.11
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 25.43,
+    "notes": [],
+    "timestamp": "2026-01-05T23:25:03",
+    "run_index": 3
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 4117.72,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 3996.11,
+        "sla": 0,
+        "actions": {
+          "run": 15,
+          "delay": 17,
+          "batt": 17
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4265.72,
+        "sla": 0,
+        "actions": {
+          "run": 30,
+          "delay": 14,
+          "batt": 5
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4098.35,
+        "sla": 0,
+        "actions": {
+          "run": 35,
+          "delay": 11,
+          "batt": 3
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4124.57,
+        "sla": 0,
+        "actions": {
+          "run": 26,
+          "delay": 16,
+          "batt": 7
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4513.98,
+        "sla": 0,
+        "actions": {
+          "run": 27,
+          "delay": 22,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4544.89,
+        "sla": 0,
+        "actions": {
+          "run": 22,
+          "delay": 27,
+          "batt": 0
+        }
+      }
+    ],
+    "best_run_carbon": 3996.11,
+    "promotion": {
+      "type": "new_global",
+      "global_best": 3996.11
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 25.43,
+    "notes": [],
+    "timestamp": "2026-01-05T23:27:03",
+    "run_index": 4
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 3996.11,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 4260.01,
+        "sla": 0,
+        "actions": {
+          "run": 12,
+          "delay": 17,
+          "batt": 20
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4600.08,
+        "sla": 0,
+        "actions": {
+          "run": 35,
+          "delay": 11,
+          "batt": 3
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4098.35,
+        "sla": 0,
+        "actions": {
+          "run": 35,
+          "delay": 13,
+          "batt": 1
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4098.35,
+        "sla": 0,
+        "actions": {
+          "run": 33,
+          "delay": 15,
+          "batt": 1
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4251.96,
+        "sla": 0,
+        "actions": {
+          "run": 35,
+          "delay": 14,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4086.99,
+        "sla": 0,
+        "actions": {
+          "run": 35,
+          "delay": 11,
+          "batt": 3
+        }
+      }
+    ],
+    "best_run_carbon": 4086.99,
+    "promotion": {
+      "type": "kept_global",
+      "global_best": 3996.11,
+      "run_best": 4086.99
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 25.43,
+    "notes": [],
+    "timestamp": "2026-01-05T23:31:00",
+    "run_index": 5
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 3996.11,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 3944.23,
+        "sla": 0,
+        "actions": {
+          "run": 28,
+          "delay": 13,
+          "batt": 8
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4246.55,
+        "sla": 0,
+        "actions": {
+          "run": 34,
+          "delay": 15,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4145.8,
+        "sla": 0,
+        "actions": {
+          "run": 32,
+          "delay": 17,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4082.87,
+        "sla": 0,
+        "actions": {
+          "run": 30,
+          "delay": 13,
+          "batt": 6
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4384.57,
+        "sla": 0,
+        "actions": {
+          "run": 41,
+          "delay": 6,
+          "batt": 2
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4150.81,
+        "sla": 0,
+        "actions": {
+          "run": 34,
+          "delay": 15,
+          "batt": 0
+        }
+      }
+    ],
+    "best_run_carbon": 3944.23,
+    "promotion": {
+      "type": "new_global",
+      "global_best": 3944.23
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 26.4,
+    "notes": [],
+    "timestamp": "2026-01-05T23:38:58",
+    "run_index": 6
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 3944.23,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 4606.5,
+        "sla": 0,
+        "actions": {
+          "run": 20,
+          "delay": 18,
+          "batt": 11
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4666.29,
+        "sla": 0,
+        "actions": {
+          "run": 33,
+          "delay": 15,
+          "batt": 1
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4315.34,
+        "sla": 0,
+        "actions": {
+          "run": 33,
+          "delay": 16,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4337.77,
+        "sla": 0,
+        "actions": {
+          "run": 32,
+          "delay": 17,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4325.48,
+        "sla": 0,
+        "actions": {
+          "run": 30,
+          "delay": 14,
+          "batt": 5
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4766.49,
+        "sla": 0,
+        "actions": {
+          "run": 23,
+          "delay": 26,
+          "batt": 0
+        }
+      }
+    ],
+    "best_run_carbon": 4315.34,
+    "promotion": {
+      "type": "kept_global",
+      "global_best": 3944.23,
+      "run_best": 4315.34
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 26.99,
+    "notes": [],
+    "timestamp": "2026-01-05T23:44:43",
+    "run_index": 7
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 3944.23,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 4220.7,
+        "sla": 0,
+        "actions": {
+          "run": 21,
+          "delay": 14,
+          "batt": 14
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4491.4,
+        "sla": 0,
+        "actions": {
+          "run": 33,
+          "delay": 14,
+          "batt": 2
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4268.85,
+        "sla": 0,
+        "actions": {
+          "run": 35,
+          "delay": 13,
+          "batt": 1
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4104.52,
+        "sla": 0,
+        "actions": {
+          "run": 31,
+          "delay": 17,
+          "batt": 1
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4219.61,
+        "sla": 0,
+        "actions": {
+          "run": 34,
+          "delay": 13,
+          "batt": 2
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4231.98,
+        "sla": 0,
+        "actions": {
+          "run": 35,
+          "delay": 14,
+          "batt": 0
+        }
+      }
+    ],
+    "best_run_carbon": 4104.52,
+    "promotion": {
+      "type": "kept_global",
+      "global_best": 3944.23,
+      "run_best": 4104.52
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 26.99,
+    "notes": [],
+    "timestamp": "2026-01-05T23:55:03",
+    "run_index": 8
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 3944.23,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 4098.35,
+        "sla": 0,
+        "actions": {
+          "run": 27,
+          "delay": 10,
+          "batt": 12
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4093.16,
+        "sla": 0,
+        "actions": {
+          "run": 30,
+          "delay": 15,
+          "batt": 4
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4731.91,
+        "sla": 0,
+        "actions": {
+          "run": 28,
+          "delay": 19,
+          "batt": 2
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4670.11,
+        "sla": 0,
+        "actions": {
+          "run": 21,
+          "delay": 28,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4608.71,
+        "sla": 0,
+        "actions": {
+          "run": 26,
+          "delay": 23,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4608.71,
+        "sla": 0,
+        "actions": {
+          "run": 25,
+          "delay": 24,
+          "batt": 0
+        }
+      }
+    ],
+    "best_run_carbon": 4093.16,
+    "promotion": {
+      "type": "kept_global",
+      "global_best": 3944.23,
+      "run_best": 4093.16
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 26.99,
+    "notes": [],
+    "timestamp": "2026-01-06T00:02:26",
+    "run_index": 9
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 3944.23,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 4531.36,
+        "sla": 0,
+        "actions": {
+          "run": 26,
+          "delay": 10,
+          "batt": 13
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4242.11,
+        "sla": 0,
+        "actions": {
+          "run": 25,
+          "delay": 20,
+          "batt": 4
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4840.14,
+        "sla": 0,
+        "actions": {
+          "run": 24,
+          "delay": 25,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4762.12,
+        "sla": 0,
+        "actions": {
+          "run": 26,
+          "delay": 21,
+          "batt": 2
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4731.91,
+        "sla": 0,
+        "actions": {
+          "run": 27,
+          "delay": 21,
+          "batt": 1
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4731.91,
+        "sla": 0,
+        "actions": {
+          "run": 25,
+          "delay": 23,
+          "batt": 1
+        }
+      }
+    ],
+    "best_run_carbon": 4242.11,
+    "promotion": {
+      "type": "kept_global",
+      "global_best": 3944.23,
+      "run_best": 4242.11
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 26.99,
+    "notes": [],
+    "timestamp": "2026-01-06T00:12:02",
+    "run_index": 10
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 3944.23,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 4281.46,
+        "sla": 0,
+        "actions": {
+          "run": 22,
+          "delay": 17,
+          "batt": 10
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4509.48,
+        "sla": 0,
+        "actions": {
+          "run": 32,
+          "delay": 16,
+          "batt": 1
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4254.36,
+        "sla": 0,
+        "actions": {
+          "run": 32,
+          "delay": 15,
+          "batt": 2
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4878.77,
+        "sla": 0,
+        "actions": {
+          "run": 22,
+          "delay": 26,
+          "batt": 1
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4643.06,
+        "sla": 0,
+        "actions": {
+          "run": 21,
+          "delay": 28,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4586.05,
+        "sla": 0,
+        "actions": {
+          "run": 22,
+          "delay": 27,
+          "batt": 0
+        }
+      }
+    ],
+    "best_run_carbon": 4254.36,
+    "promotion": {
+      "type": "kept_global",
+      "global_best": 3944.23,
+      "run_best": 4254.36
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 26.99,
+    "notes": [],
+    "timestamp": "2026-01-06T00:18:47",
+    "run_index": 11
+  },
+  {
+    "baseline_carbon": 5359.03,
+    "baseline_sla": 0,
+    "loaded_global_best": 3944.23,
+    "eval_points": [
+      {
+        "ep": 50,
+        "carbon": 4571.7,
+        "sla": 0,
+        "actions": {
+          "run": 25,
+          "delay": 15,
+          "batt": 9
+        }
+      },
+      {
+        "ep": 100,
+        "carbon": 4570.01,
+        "sla": 0,
+        "actions": {
+          "run": 33,
+          "delay": 16,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 150,
+        "carbon": 4507.94,
+        "sla": 0,
+        "actions": {
+          "run": 43,
+          "delay": 5,
+          "batt": 1
+        }
+      },
+      {
+        "ep": 200,
+        "carbon": 4662.84,
+        "sla": 0,
+        "actions": {
+          "run": 36,
+          "delay": 13,
+          "batt": 0
+        }
+      },
+      {
+        "ep": 250,
+        "carbon": 4216.76,
+        "sla": 0,
+        "actions": {
+          "run": 30,
+          "delay": 17,
+          "batt": 2
+        }
+      },
+      {
+        "ep": 300,
+        "carbon": 4335.6,
+        "sla": 0,
+        "actions": {
+          "run": 28,
+          "delay": 20,
+          "batt": 1
+        }
+      }
+    ],
+    "best_run_carbon": 4216.76,
+    "promotion": {
+      "type": "kept_global",
+      "global_best": 3944.23,
+      "run_best": 4216.76
+    },
+    "served_carbon": null,
+    "served_sla": null,
+    "reduction_pct": 26.99,
+    "notes": [],
+    "timestamp": "2026-01-06T00:30:16",
+    "run_index": 12
+  },
+  {
+  "baseline_carbon": 5359.03,
+  "baseline_sla": 0,
+  "loaded_global_best": 3944.23,
+  "eval_points": [
+    {
+      "ep": 50,
+      "carbon": 4453.03,
+      "sla": 0,
+      "actions": { "run": 17, "delay": 16, "batt": 16 }
+    },
+    {
+      "ep": 100,
+      "carbon": 4320.21,
+      "sla": 0,
+      "actions": { "run": 28, "delay": 16, "batt": 5 }
+    },
+    {
+      "ep": 150,
+      "carbon": 4283.75,
+      "sla": 0,
+      "actions": { "run": 35, "delay": 12, "batt": 2 }
+    },
+    {
+      "ep": 200,
+      "carbon": 4152.21,
+      "sla": 0,
+      "actions": { "run": 32, "delay": 17, "batt": 0 }
+    },
+    {
+      "ep": 250,
+      "carbon": 3989.40,
+      "sla": 0,
+      "actions": { "run": 31, "delay": 18, "batt": 0 }
+    },
+    {
+      "ep": 300,
+      "carbon": 3782.60,
+      "sla": 0,
+      "actions": { "run": 29, "delay": 16, "batt": 4 }
+    }
+  ],
+  "best_run_carbon": 3782.60,
+  "promotion": {
+    "type": "new_global",
+    "global_best": 3782.60
+  },
+  "served_carbon": 3782.60,
+  "served_sla": 0,
+  "reduction_pct": 29.40,
+  "notes": [],
+  "timestamp": "2026-01-06T00:38:28",
+  "run_index": 13
+}
+
+
+]
